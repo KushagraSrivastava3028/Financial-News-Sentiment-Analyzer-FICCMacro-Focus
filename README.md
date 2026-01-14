@@ -58,7 +58,8 @@ cd Financial-News-Sentiment-Analyzer
 
 ### 2️⃣ Install Dependencies
 ```bash
-pip install -r requirements.txt
+pip install pandas numpy matplotlib seaborn beautifulsoup4 nltk yfinance lxml
+
 ```
 
 ### 3️⃣ Run the Script
